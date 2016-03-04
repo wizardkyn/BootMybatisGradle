@@ -1,4 +1,4 @@
-# BootMybatis
+# BootMybatisGradle
 Spring Boot Web with Mybatis
 
 # Environment
